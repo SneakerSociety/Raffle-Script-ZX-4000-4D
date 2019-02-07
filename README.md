@@ -1,4 +1,7 @@
-# Raffle-Script-Testing
-Repository for me to learn python and figure out how to create my own raffle scripts.
+# Wood Wood Raffle for adidas Consortium ZX 4000 4D
+First raffle script made by me.
 
-For wood.py install requests through cmd.
+Required: Python and requests
+
+Python DL : https://www.python.org/downloads/
+Requests : pip install requests
