@@ -1,3 +1,5 @@
+# Made by @ASnkrSociety
+
 import requests
 import random
 
