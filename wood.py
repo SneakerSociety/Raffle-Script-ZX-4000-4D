@@ -32,4 +32,3 @@ def wood_wood_raffle():
 
 if __name__ == '__main__':
     wood_wood_raffle()
-
